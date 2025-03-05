@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Codealuxz</h1>
 <h3 align="center">I am a web developer, python, and other.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codealuxz" alt="codealuxz" /></a> </p>
+<br><br><br>
 
 - 🌱 I’m currently learning **Java**
 

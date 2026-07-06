@@ -20,7 +20,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | [makeadb](https://github.com/Codealuxz/makeadb) | Spin up disposable Docker databases in one click | Node.js, Docker |
-| [MCP-PC-CONTROL](https://github.com/Codealuxz/MCP-PC-CONTROL) | MCP server to control your PC: mouse, keyboard, windows, screenshots | Rust |
+| [mcp-pc-control](https://github.com/Codealuxz/mcp-pc-control) | MCP server to control your PC: mouse, keyboard, windows, screenshots | Rust |
 | [claude-messager](https://github.com/Codealuxz/claude-messager) | Discord bridge for Claude Code: notifications and interactive Q&A | Node.js |
 | [raycast-windows](https://github.com/Codealuxz/raycast-windows) | Raycast-style launcher for Windows | C# |
 | [tourix](https://github.com/Codealuxz/tourix) | Tower defense game, playable at [tower.codealuxz.fr](https://tower.codealuxz.fr) | Vanilla JS |

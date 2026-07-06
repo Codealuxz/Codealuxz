@@ -1,21 +1,52 @@
-<h1 align="center" style="font-size:30px;">Hi, I'm Codealuxz</h1>
-<h3 align="center">I am a web developer, python, and other.</h3>
+<h1 align="center">Hi, I'm Codealuxz</h1>
+<p align="center">Full-stack developer from France · Node.js, vanilla JS, and a bit of Rust</p>
 
-<br><br><br>
-
-- 🌱 I’m currently learning **Java**
-
-- 👨‍💻 All of my projects are available at [codealuxz.fr](https://codealuxz.fr)
-
-- 📫 How to reach me **contact@codealuxz.fr**
-
-<h3 align="left">Socials :</h3>
-<p align="left">
-<a href="https://instagram.com/codealuxz2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codealuxz2" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codealuxz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codealuxz" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://codealuxz.fr">Portfolio</a> ·
+  <a href="https://all.codealuxz.fr">All my projects</a> ·
+  <a href="mailto:contact@codealuxz.fr">contact@codealuxz.fr</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codealuxz&show_icons=true&locale=en&layout=compact" alt="codealuxz" /></p>
+### About
+
+- I build web apps with **HTML/CSS/JS (vanilla)** on the front and **Node.js + Express** on the back
+- I self-host everything on my own VPS with **Docker** and **Dokploy**
+- Currently exploring **Rust** and the **Model Context Protocol (MCP)**
+
+### Featured projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [makeadb](https://github.com/Codealuxz/makeadb) | Spin up disposable Docker databases in one click | Node.js, Docker |
+| [MCP-PC-CONTROL](https://github.com/Codealuxz/MCP-PC-CONTROL) | MCP server to control your PC: mouse, keyboard, windows, screenshots | Rust |
+| [claude-messager](https://github.com/Codealuxz/claude-messager) | Discord bridge for Claude Code: notifications and interactive Q&A | Node.js |
+| [raycast-windows](https://github.com/Codealuxz/raycast-windows) | Raycast-style launcher for Windows | C# |
+| [tourix](https://github.com/Codealuxz/tourix) | Tower defense game, playable at [tower.codealuxz.fr](https://tower.codealuxz.fr) | Vanilla JS |
+| [speedtest](https://github.com/Codealuxz/speedtest) | Self-hosted network speed test | Node.js |
+
+### Stack
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express" alt="Express">
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3">
+  <img src="https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust" alt="Rust">
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker" alt="Docker">
+  <img src="https://img.shields.io/badge/Cloudflare-0d1117?style=flat-square&logo=cloudflare" alt="Cloudflare">
+</p>
+
+### Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Codealuxz&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Codealuxz&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" height="160">
+</p>
+
+### Find me
+
+[Instagram](https://www.instagram.com/codealuxz2/) · [TikTok](https://www.tiktok.com/@codealuxz.exe) · [YouTube](https://www.youtube.com/c/codealuxz)

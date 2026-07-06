@@ -24,7 +24,7 @@
 | [claude-messager](https://github.com/Codealuxz/claude-messager) | Discord bridge for Claude Code: notifications and interactive Q&A | Node.js |
 | [raycast-windows](https://github.com/Codealuxz/raycast-windows) | Raycast-style launcher for Windows | C# |
 | [tourix](https://github.com/Codealuxz/tourix) | Tower defense game, playable at [tower.codealuxz.fr](https://tower.codealuxz.fr) | Vanilla JS |
-| [speedtest](https://github.com/Codealuxz/speedtest) | Self-hosted network speed test | Node.js |
+| [photos](https://github.com/Codealuxz/photos) | My photography portfolio, live at [photo.codealuxz.fr](https://photo.codealuxz.fr) | Vanilla JS, Python |
 
 ### Stack
 
